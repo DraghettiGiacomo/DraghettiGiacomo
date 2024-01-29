@@ -37,6 +37,6 @@
 <div>
   <p>Connect with me!</p>
       <a target="_blank" href="https://www.linkedin.com/in/giacomo-draghetti-111398264/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="mailto:jack.draghetti2002@gmail.com"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fsocial-media-logos-6%2F512%2F112-gmail_email_mail-512.png&tbnid=RuLXFbqjKYQD0M&vet=12ahUKEwjBpcLJ6oKEAxUqnf0HHeOiDKMQMygCegQIARBV..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4202011%2Femail_gmail_mail_logo_social_social_media_icon&docid=GLo-WLdcRzLXjM&w=512&h=512&q=email%20png&hl=it&ved=2ahUKEwjBpcLJ6oKEAxUqnf0HHeOiDKMQMygCegQIARBV)https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn4.iconfinder.com%2Fdata%2Ficons%2Fsocial-media-logos-6%2F512%2F112-gmail_email_mail-512.png&tbnid=RuLXFbqjKYQD0M&vet=12ahUKEwjBpcLJ6oKEAxUqnf0HHeOiDKMQMygCegQIARBV..i&imgrefurl=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4202011%2Femail_gmail_mail_logo_social_social_media_icon&docid=GLo-WLdcRzLXjM&w=512&h=512&q=email%20png&hl=it&ved=2ahUKEwjBpcLJ6oKEAxUqnf0HHeOiDKMQMygCegQIARBV" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="mailto:jack.draghetti2002@gmail.com">Mail</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
