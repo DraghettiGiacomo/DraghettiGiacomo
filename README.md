@@ -23,8 +23,6 @@
 
  <hr>
 
-<p>📫 How to reach me jack.draghetti2002@gmail.com</p>
-
 <div align="center">
   <p>Connect with me!</p>
       <a target="_blank" href="https://www.linkedin.com/in/giacomo-draghetti-111398264/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
