@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/22b22287602523.5dbd29081561d.gif" alt="coding" width="100px" height="200px">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/22b22287602523.5dbd29081561d.gif" alt="coding" width="100px" height="auto">
 <!-- <img src="coverReadmeGithub/bbefa799786133(1).5efa9bf3d1b49.gif" alt="coding"> -->
 <!-- <img src="coverReadmeGithub/579fe1183178475(1).653aa8931b193.gif" alt="coding"> -->
 
