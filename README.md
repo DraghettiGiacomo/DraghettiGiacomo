@@ -4,6 +4,8 @@
 <!-- <img src="coverReadmeGithub/bbefa799786133(1).5efa9bf3d1b49.gif" alt="coding"> -->
 <!-- <img src="coverReadmeGithub/579fe1183178475(1).653aa8931b193.gif" alt="coding"> -->
 
+<hr>
+
 **DraghettiGiacomo/DraghettiGiacomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
