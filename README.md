@@ -28,7 +28,9 @@
   <p>📫 How to reach me jack.draghetti2002@gmail.com</p>
 <a href="https://linkedin.com/in/giacomo-draghetti-111398264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giacomo-draghetti-111398264/" height="30" width="40" /></a>
 </p>
-<p>Find me on Linkedin!</p>
+
+<p>Connect with me!</p>
+    <a target="_blank" href="https://www.linkedin.com/in/stefania-galazzo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://www.linkedin.com/in/stefania-galazzo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
    
 </p>
