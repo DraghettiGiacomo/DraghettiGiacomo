@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="[https://www.behance.net/gallery/183178475/Coding](https://www.behance.net/gallery/183178475/Coding)" alt="coding">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/22b22287602523.5dbd29081561d.gif" alt="coding">
 
 
 **DraghettiGiacomo/DraghettiGiacomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
