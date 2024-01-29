@@ -6,6 +6,8 @@
 
 <h1 align='center'>Hello World!👋</h1>
 
+<p>Ciao! Sono Giacomo Draghetti e sono nato a Bologna nel 2002. Ho spiccate capacità creative, organizzative e comunicative. Diverse competenze maturate negli anni di studio e durante gli stage. Ottima predisposizione in un team lavorativo. Marcate abilità d’ascolto e di comprensione verso le esigenze e i desideri/obbiettivi del cliente. </p>
+
 <hr>
 
 <h3>Languages and Tools :</h3>
