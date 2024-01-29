@@ -23,11 +23,7 @@
 
  <hr>
 
-<h3 align="center">Connect with me:</h3>
-<p align="left" style='display: flex; gap: 10px'>
-  <p>📫 How to reach me jack.draghetti2002@gmail.com</p>
-<a href="https://linkedin.com/in/giacomo-draghetti-111398264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/giacomo-draghetti-111398264/" height="30" width="40" /></a>
-</p>
+<p>📫 How to reach me jack.draghetti2002@gmail.com</p>
 
 <div align="center">
   <p>Connect with me!</p>
