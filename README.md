@@ -6,7 +6,9 @@
 
 <h1 align='center'>Hello World!👋</h1>
 
-<p>Ciao! Sono Giacomo Draghetti e sono nato a Bologna nel 2002. Ho spiccate capacità creative, organizzative e comunicative. Diverse competenze maturate negli anni di studio e durante gli stage. Ottima predisposizione in un team lavorativo. Marcate abilità d’ascolto e di comprensione verso le esigenze e i desideri/obbiettivi del cliente. </p>
+<p>Ciao! Sono Giacomo Draghetti e sono nato a Bologna nel 2002. Ho spiccate capacità creative, organizzative e comunicative. Diverse competenze maturate negli anni di studio e durante gli stage. Ottima predisposizione in un team lavorativo. Marcate abilità d’ascolto e di comprensione verso le esigenze e i desideri/obbiettivi del cliente. <br>
+Hi, I'm Giacomo Draghetti. A passionate Front-End Developer base in Bologna, Italy.
+As a Junior Front-End Developer, I possess an impressive arsenal of skills in HTML, CSS, JavaScript and React. My expertise lies in crafting dynamic, engaging interfaces through writing clean and optimized code and utilizing cutting-edge development tools and techniques.</p>
 
 <hr>
 
