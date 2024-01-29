@@ -12,7 +12,7 @@
 <div align='center'>
   - 📄 Know about my experiences <a href='coverReadmeGithub/CV-Drafghetti-Giacomo.pdf'>CV</a>
 
-- ⚡ Fun fact I like go to the mountains for trekking, climbing and do snowboard
+  - ⚡ Fun fact I like go to the mountains for trekking, climbing and do snowboard
 
 </div>
 
