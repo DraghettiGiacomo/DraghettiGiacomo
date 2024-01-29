@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="file:///C:/Users/Giacomo/Desktop/cover%20per%20il%20readme%20di%20github/Coding%20__%20Behance.html" alt="coding">
+<img src="https://www.behance.net/gallery/183178475/Coding" alt="coding">
 
 
 **DraghettiGiacomo/DraghettiGiacomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
