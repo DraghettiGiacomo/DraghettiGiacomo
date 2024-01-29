@@ -10,7 +10,7 @@
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
 <div align='center'>
-  - 📄 Know about my experiences [coverReadmeGithub/CV-Drafghetti-Giacomo.pdf](coverReadmeGithub/CV-Drafghetti-Giacomo.pdf)
+  - 📄 Know about my experiences coverReadmeGithub/CV-Drafghetti-Giacomo.pdf
 
 - ⚡ Fun fact I like go to the mountains for trekking, climbing and do snowboard
 
