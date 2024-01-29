@@ -24,6 +24,7 @@
  <hr>
 
  The soft skills I’ve worked on the most:
+ 
 🫱🏻‍🫲🏼 Collaboration above all else.
 
 ⚙️ Problem solving.
