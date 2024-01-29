@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </div>
 
-
+<br>
 
  <b>The soft skills I’ve worked on the most:</b>
  
