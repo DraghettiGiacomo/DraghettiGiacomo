@@ -23,7 +23,7 @@
 
 
 
- <h1>The soft skills I’ve worked on the most:</h1>
+ <h6>The soft skills I’ve worked on the most:</h6>
  
 🫱🏻‍🫲🏼 Collaboration above all else.
 
