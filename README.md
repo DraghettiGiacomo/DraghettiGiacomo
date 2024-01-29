@@ -6,16 +6,6 @@
 
 <hr>
 
-<h1 align="center">I'm Draghetti Giacomo</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
-
-<div align='center'>
-  - 📄 Know about my experiences <a href='coverReadmeGithub/CV-Drafghetti-Giacomo.pdf'>CV</a>
-
-  - ⚡ Fun fact I like go to the mountains for trekking, climbing and do snowboard
-
-</div>
-
 <h3 align="center">Connect with me:</h3>
 <p align="left" style='display: flex; gap: 10px'>
   <p>📫 How to reach me jack.draghetti2002@gmail.com</p>
