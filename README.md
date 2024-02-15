@@ -6,8 +6,6 @@
 
 <h1 align='center'>Hello World!👋</h1>
 
-<p>Hi, I am Giacomo, a 21 years old Junior Front End Developer with skills in HTML, CSS, JavaScript, React, Bootstrap and Redux. I have experience in creating responsive user interfaces. I am passionate about web development and am determined to grow professionally and contribute to challenging projects.</p>
-
 <p>
 I am Giacomo I am 21 years old graduated in Graphic Design and Communication and just finished a training course as Front-End Developer at Epicode.
 
