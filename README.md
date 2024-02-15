@@ -6,7 +6,13 @@
 
 <h1 align='center'>Hello World!👋</h1>
 
-<p>Hi, I am Giacomo, a 21 years old Junior Front End Developer with skills in HTML, CSS, JavaScript, React, Bootstrap and Redux. I have experience in creating responsive user interfaces. I am passionate about web development and am determined to grow professionally and contribute to challenging projects.</p>
+<p>
+  Sono Giacomo ho 21 anni diplomato in Grafica e Comunicazione e ho appena terminato un corso di formazione come Front-End Developer presso Epicode.
+
+Da qualche anno sono intenzionato a lavorare nel digitale . Nei prossimi anni voglio continuare a formarmi e mettermi alla prova, per diventare sempre di più un programmatore migliore.
+
+Le soft skills su cui posso contare sono una personalità collaborativa, un grande spirito di adattamento e la determinazione di risolvere problemi, mettendoci il 100%.
+</p>
 
 <hr>
 
