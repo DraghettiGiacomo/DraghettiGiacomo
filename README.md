@@ -48,8 +48,9 @@ The soft skills I can count on are a collaborative personality, a great adaptabi
 
 <div>
   <p>Connect with me!</p>
-      
       <a target="_blank" href="mailto:jack.draghetti2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a target="_blank" href="https://www.linkedin.com/in/giacomo-draghetti-111398264/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </div>
 
